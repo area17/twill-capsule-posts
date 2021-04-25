@@ -1,2 +1,2 @@
-# twill-capsule-posts
-Posts Capsule
+# Posts Capsule
+
